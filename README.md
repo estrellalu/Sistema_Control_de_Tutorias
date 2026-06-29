@@ -29,6 +29,7 @@ librerías externas).
 
 ## 2. Configurar el proyecto
 
+Actualmente funciona con mi base de datos pero es mejor seguir estos pasos 
 Abre el archivo `config/config.php` y reemplaza estas dos líneas con tus
 datos reales de Supabase: 
 
