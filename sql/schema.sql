@@ -1,7 +1,3 @@
--- =====================================================================
--- SISTEMA DE CONTROL DE TUTORÍAS
--- Esquema de base de datos para Supabase (PostgreSQL)
---
 -- DÓNDE EJECUTAR ESTE ARCHIVO:
 --   1. Entra a tu proyecto en https://supabase.com
 --   2. Menú lateral -> "SQL Editor" -> "New query"

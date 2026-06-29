@@ -1,9 +1,5 @@
--- =====================================================================
 -- MIGRACIÓN: agrega la tabla "asistencias"
--- -----------------------------------------------------------------
--- Ejecuta este archivo en Supabase -> SQL Editor -> New query -> Run
--- Solo necesitas correr esto UNA VEZ (ya tienes el resto del esquema).
--- =====================================================================
+
 
 create table if not exists asistencias (
     id              uuid primary key default gen_random_uuid(),
