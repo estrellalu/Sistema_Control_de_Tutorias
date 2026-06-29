@@ -19,7 +19,7 @@
 
 // ============ DATOS DE SUPABASE (reemplaza con los tuyos) ============
 define('SUPABASE_URL', 'https://zndaspozlfhdjbesetli.supabase.co');
-define('SUPABASE_SERVICE_KEY', 'sb_publishable_y1uDUoX5TPTAGWQYF1Pixw_XWqfyezL');
+define('SUPABASE_SERVICE_KEY', 'Pon tu llave aqui');
 define('SUPABASE_REST_URL', SUPABASE_URL . '/rest/v1');
 
 // ============ ADMINISTRADOR FIJO (no vive en la base de datos) =======
