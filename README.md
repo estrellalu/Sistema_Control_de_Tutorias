@@ -1,5 +1,7 @@
 # Sistema de Control de Tutorías
 
+Link del video https://drive.google.com/file/d/1rsgDdsIWTCmi-ia8qh_lHmKWdafT00Hm/view?usp=drive_link
+
 Herramienta web para el seguimiento académico y psicopedagógico de alumnos
 por parte de sus tutores: agenda de citas, bitácora de sesiones, reportes
 de canalización y alertas de alumnos en riesgo de deserción.
